@@ -1,7 +1,6 @@
 # ProyectoIA
 
 
-Home Credit Default Risk
 
 ALVARO JAVIER TALAIGUA ROSARIO 
 1196969101
