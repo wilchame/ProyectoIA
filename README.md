@@ -1,6 +1,6 @@
 # ProyectoIA
 
-
+Home Credit Default Risk
 
 ALVARO JAVIER TALAIGUA ROSARIO 
 1196969101
@@ -10,7 +10,6 @@ WILSON ARBEY CHAVERRA MEJIA
 8064138
 INGENIERÁ MECÁNICA 
 
-Home Credit Default Risk
 
 Enlace de la competición en kaggle https://www.kaggle.com/c/home-credit-default-risk/overview
 
